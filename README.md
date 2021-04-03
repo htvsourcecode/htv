@@ -1,6 +1,6 @@
 # HTV 
 
-Implementation of "Neural Topic Models forHierarchical Topic Detection and Visualization"
+Implementation of "Neural Topic Models for Hierarchical Topic Detection and Visualization"
 
 ## Denendency
 * Numpy
