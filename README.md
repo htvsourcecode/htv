@@ -5,7 +5,7 @@ Implementation of "Neural Topic Models for Hierarchical Topic Detection and Visu
 ## Denendency
 * Numpy
 * TensorFlow
-* networkx
+* Networkx
 
 ## Preprocessing:
 * Check this [repo](https://github.com/misonuma/tsntm) for preprocessing scripts.
