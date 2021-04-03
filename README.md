@@ -1,13 +1,16 @@
 # HTV 
 
-Tensor implementation of "Neural Topic Models forHierarchical Topic Detection and Visualization"
+Implementation of "Neural Topic Models forHierarchical Topic Detection and Visualization"
 
 ## Denendency
 * Numpy
 * TensorFlow
 * networkx
 
-## Example:
+## Preprocessing:
+* Check this [repo](https://github.com/misonuma/tsntm) for preprocessing scripts.
+
+## Training:
 * train.ipynb: Training example for BBC dataset.
 
 ## Credit:
